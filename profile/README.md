@@ -59,13 +59,6 @@ Coming soon: access our sandbox and SDK via [waitlist.medibound.com](https://wai
 
 ---
 
-## 🗣 Testimonials
-
-> “Medibound saved us a ton of dev hours—and gave our startup a beautiful interface we didn’t have to build ourselves.” – Beta Partner  
-> “This is the Apple HomeKit of medical devices. It just works.” – Healthcare VC  
-
----
-
 ## 🌐 Learn More
 
 - Website: [medibound.com](https://medibound.com)  
