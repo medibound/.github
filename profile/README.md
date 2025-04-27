@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/v2/D4E3DAQH9Hf45nVqWPQ/image-scale_191_1128/image-scale_191_1128/0/1736394310700/medibound_cover?e=1744898400&v=beta&t=Bk-y4Ao6B3O3X6zCENguTBWVmjlJsRbch21k3EsQXNY)
+![](https://media.licdn.com/dms/image/v2/D4E3DAQH9Hf45nVqWPQ/image-scale_191_1128/image-scale_191_1128/0/1736394310700/medibound_cover?e=1746334800&v=beta&t=YCT48oGzg1sbOnwtWejxmuHOfrkgMHOadXYL9VCpLtI)
 
 **The All-in-One IoMT Platform**  
 _From Testing to Treatment—Your Health in Your Hands_
